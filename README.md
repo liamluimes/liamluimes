@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @liamluimes
 - 👀 I’m interested in Mechatronic Engineering 
 - 🌱 I’m currently learning Machine Learning 
-- 📫 How to reach me liamluimes@gmail.com
+- 📫 How to reach me liam@cengtech.com
 
 <!---
 liamluimes/liamluimes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
